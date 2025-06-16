@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "sportsfacility",
-    "package_name": "com.duseca.sportsfacility",
+    "package_name": "com.example.sportsFacilityBooking",
     "sha256_cert_fingerprints": ["8F:06:9B:39:10:E4:A8:96:9B:7A:64:E8:4A:C7:AF:08:D7:70:03:D1:57:72:FF:53:31:BC:52:96:7F:05:A0:28"]
   }
 }]
